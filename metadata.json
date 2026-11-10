@@ -1,0 +1,6 @@
+{
+  "name": "SMART CLASS - Sistem Informasi Guru & Murid SD",
+  "description": "Platform informasi pembelajaran, komunikasi guru dan murid, serta pengumpulan tugas sekolah dasar modern dan ramah anak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
